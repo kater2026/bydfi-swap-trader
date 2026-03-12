@@ -1,11 +1,11 @@
 #!/bin/bash
 # BYDFi Swap Trader - One-line installer for Claude Code skill
-# Usage: bash <(curl -s https://raw.githubusercontent.com/betterlee/bydfi-swap-trader/main/install.sh)
+# Usage: bash <(curl -s https://raw.githubusercontent.com/betterlee/bydfi-swap-trader/feat/initial-release/install.sh)
 
 set -e
 
 SKILL_DIR="$HOME/.claude/skills/bydfi-swap-trader"
-REPO_BASE="https://raw.githubusercontent.com/kater2026/bydfi-swap-trader/main"
+REPO_BASE="https://raw.githubusercontent.com/kater2026/bydfi-swap-trader/feat/initial-release"
 
 echo "========================================"
 echo "  BYDFi Swap Trader - Installer"

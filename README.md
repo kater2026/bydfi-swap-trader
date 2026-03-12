@@ -5,7 +5,7 @@ A Claude Code skill for trading crypto perpetual contracts on BYDFi exchange. Co
 ## Quick Install
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/kater2026/bydfi-swap-trader/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/kater2026/bydfi-swap-trader/feat/initial-release/install.sh)
 ```
 
 ## Manual Install
