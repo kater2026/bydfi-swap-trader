@@ -5,7 +5,7 @@
 set -e
 
 SKILL_DIR="$HOME/.claude/skills/bydfi-swap-trader"
-REPO_BASE="https://raw.githubusercontent.com/betterlee/bydfi-swap-trader/main"
+REPO_BASE="https://raw.githubusercontent.com/kater2026/bydfi-swap-trader/main"
 
 echo "========================================"
 echo "  BYDFi Swap Trader - Installer"
